@@ -1,0 +1,17 @@
+numpy==1.26.4
+pandas==2.1.*
+scikit-learn==1.5.1
+seaborn==0.13.2
+matplotlib==3.6.*
+SQLAlchemy==1.4.*
+imblearn
+xgboost
+pymysql
+easydict
+requests
+openpyxl
+python-dotenv==1.0.0
+streamlit
+streamlit-autorefresh==1.0.1
+altair==4.0
+vega_datasets==0.9.0
